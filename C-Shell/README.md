@@ -1,1 +1,1 @@
-Shell program written for CS3650 Computer Systems
+Program that replicates functionality of a shell
